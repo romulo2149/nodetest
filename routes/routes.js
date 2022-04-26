@@ -9,7 +9,7 @@ var router = express.Router();
 
 router.get('/', function (request, response)
 {
-    response.json({ message: 'Hello World!' })
+    response.json({ message: 'Hello World!!!' })
 })
 
 // Auth routes
